@@ -1,4 +1,4 @@
-## Projeto JS Intermediario, utilizando HTML e CSS do curso Dev Quest. 
+## Projeto JS Intermediario, utilizando JS, HTML e CSS do curso Dev Quest. 
 
 Landing page foi criada utilizando conhecimentos de JS intermediário, HTML avançado e CSS avançado. Com design base web fornecida no Figma.
 
